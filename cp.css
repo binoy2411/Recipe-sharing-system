@@ -1,0 +1,16 @@
+body{
+	
+	background-image: url('img/f.jpg');
+	background-size: 100%;
+	background-attachment: fixed;
+
+
+}
+h1{ 
+    color: white; 
+	font-family:cursive; 
+	font-size: 35px; 
+	font-weight: normal; 
+	text-shadow: 1px 1px 8px yellow;
+	text-align: center; 
+}

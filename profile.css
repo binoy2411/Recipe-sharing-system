@@ -1,0 +1,10 @@
+.bgImageContainer{
+    background-image:url('img/a.jpg'); 
+	background-size:100%;
+    width:1400px;
+    height:800px;
+    -webkit-filter: blur(7px) brightness(85%);
+
+    z-index:0;
+    position:fixed;
+}
